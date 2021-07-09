@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zol777
 - 👀 I’m interested in soccer
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ...
 - 📫 zol777@gmail.com
 
 <!---
